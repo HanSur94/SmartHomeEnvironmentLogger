@@ -18,7 +18,7 @@ The device is capable of measuring the following metrics like temperature, relat
 
 ## Electrical Components
 
-Electrical components and their interconnection used for zthis project can be found in the following schematic. The operating brain of the smart home sytsem is a ordinary ESP8266 Chip on the Node MCU v3 development board. Following a table with the used sensors is given:
+Electrical components and their interconnection used for zthis project can be found in the following schematic. The operating brain of the smart home sytsem is a ordinary ESP8266 Chip on the Node MCU v3 development board. The Sensors used inside the device can be seen in the following table with their measured quantities.
 
 | Board Name | Sensor Name  | Metric | Units |
 |-----------|-----------|-----------|-----------|
@@ -28,13 +28,19 @@ Electrical components and their interconnection used for zthis project can be fo
 | DEBO Sens CCS811  | CCS811       | CO2, TVOC                           | ppm, ppb               | 
 
 
+The connection between all parts can be found here:
+
+![Schematic](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Schematic_SmartEnvironmentSensor_2022-12-31.pdf)
+
 ---------
 
-![alt text](https://github.com/HanSur94/ARTNet/blob/main/gif_1.gif)
+![alt text]()
 
 ## Built With
 
-* [MATLAB](https://www.mathworks.com/products/matlab.html) - Version R2022a
+* [Blynk](https://blynk.io) - Free Version
+* [Home Asssitant](https://www.home-assistant.io) - Version: 2022.12.8
+* [Arduino](https://www.arduino.cc) - Version: 1.8.13
 
 ## Authors
 
