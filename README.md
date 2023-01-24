@@ -62,9 +62,7 @@ api:
 ota:
   password: ""
 
-
 captive_portal:
-
 
 i2c:
   sda: GPIO5
