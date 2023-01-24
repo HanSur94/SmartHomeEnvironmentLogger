@@ -135,7 +135,7 @@ sensor:
 ## Arduino & Blynk Configuration
 
 The Arduino code using the Blynk library can be found here:
-
+[Arduino Code for Blynk](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Arduino/SmartEnvlogger.ino)
 
 ## Built With
 
