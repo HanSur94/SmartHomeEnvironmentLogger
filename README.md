@@ -18,7 +18,15 @@ The device is capable of measuring the following metrics like temperature, relat
 
 ## Electrical Components
 
-Electrical components and their interconnection used for zthis project can be found in the following schematic. The operating brain of the smart home sytsem is a ordinary ESP8266 Chip on the Node MCU v3 development board. A Bosch BME8
+Electrical components and their interconnection used for zthis project can be found in the following schematic. The operating brain of the smart home sytsem is a ordinary ESP8266 Chip on the Node MCU v3 development board. Following a table with the used sensors is given:
+
+| Board Name | Sensor Name  | Metric     | Units |
+|--------------|-----------|-----------|
+| DEBO Sens BME860  | Bosch BME860 | Temperature, Humidity, Air Pressure | °C, rel.Humid., mPas   |
+| GUVA-S12SD        | GUVA-S12SD   | UVA / UVB                           | UV Index               |
+| DEBO BH1750       | BH 1750      | Luminous flux                       | lm                     |
+| DEBO Sens CCS811  | CCS811       | CO2, TVOC                           | ppm, ppb               | 
+
 
 ---------
 
