@@ -31,8 +31,6 @@ For usage without the need of a internet connection 5 RGB leds of the Type W2812
 
 The connection between all parts can be found here:
 
-![alt_text](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Schematic_SmartEnvironmentSensor_2022-12-31.pdf)
-
 ## Home Assistant Configuration
 
 The Home Assistant configuration can be seen here:
@@ -137,8 +135,6 @@ sensor:
 ## Arduino & Blynk Configuration
 
 The Arduino code using the Blynk library can be found here:
-(https:)
-
 
 
 ## Built With
