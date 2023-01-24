@@ -22,7 +22,7 @@ Electrical components and their interconnection used for zthis project can be fo
 
 | Board Name | Sensor Name  | Metric | Units |
 |-----------|-----------|-----------|-----------|
-| DEBO Sens BME860  | Bosch BME860 | Temperature, Humidity, Air Pressure | °C, rel.Humid., mPas   |
+| DEBO Sens BME860  | Bosch BME860 | Temperature, Humidity, Air Pressure | °C, %, mPas   |
 | GUVA-S12SD        | GUVA-S12SD   | UVA / UVB                           | UV Index               |
 | DEBO BH1750       | BH 1750      | Luminous flux                       | lm                     |
 | DEBO Sens CCS811  | CCS811       | CO2, TVOC                           | ppm, ppb               | 
@@ -30,7 +30,7 @@ Electrical components and their interconnection used for zthis project can be fo
 
 The connection between all parts can be found here:
 
-![Schematic](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Schematic_SmartEnvironmentSensor_2022-12-31.pdf)
+![alt_text](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Schematic_SmartEnvironmentSensor_2022-12-31.pdf)
 
 ---------
 
