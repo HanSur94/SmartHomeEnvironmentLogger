@@ -1,7 +1,7 @@
 
 
 
-![SmartHomeEnvironmentLogger/Pasted image 20230129214140.png]
+![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%20image%2020230129214140.png)
 
 # Smart Home Environment Logger
 
