@@ -13,7 +13,7 @@ This project is intended to create a custom smart home device that can be used i
 * [Printed Circiut Board](#Printed-Circiut-Board)
 * [Home Assistant Configuration](#Home-Assistant-Configuration)
 * [Arduino & Blynk Configuration](#Arduino-&-Blynk-Configuration)
-* [Sensor Housing](#Sensor Housing)
+* [Sensor Housing](#Sensor-Housing)
 * [Examples](#Examples)
 * [Bill of Materials (BOM)](# Bill-of-Materials-(BOM))
 * [Built With](#built-with)
