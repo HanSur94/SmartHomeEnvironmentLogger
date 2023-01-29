@@ -1,7 +1,7 @@
 
 
 
-![[SmartHomeEnvironmentLogger/Pasted image 20230129214140.png]]
+![SmartHomeEnvironmentLogger/Pasted image 20230129214140.png]
 
 # Smart Home Environment Logger
 
