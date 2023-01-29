@@ -172,7 +172,7 @@ Full sensor housing wth ventilation openings. Furthermore two openings on the up
 ![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%image%20230129201644.png)
 The sensor housing with its embedded electronics as well as buttons on the back side. 
 
-![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%image%20230129201722.png)
+![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%20image%2020230129201722.png)
 The sensor housing with its embedded electronics as well as buttons on the front side. 
 
 ## Arduino & Blynk Configuration
