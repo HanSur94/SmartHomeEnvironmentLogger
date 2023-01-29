@@ -166,13 +166,13 @@ The sensor housing was designed in order to fit the PCB with the soldered electr
 
 For a more versatile positioning of the Smart Home Sensor additional sideways stand can be used.
 
-![[Pasted image 20230129201735.png]]
+![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%image%20230129201735.png)
 Full sensor housing wth ventilation openings. Furthermore two openings on the upper ending of the top cover can be seen where the BH1750 and GUVA-S12SD sensors are attached to. The cut out rectangle is used to mark the area for the indication LEDs.
 
-![[Pasted image 20230129201644.png]]
+![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%image%20230129201644.png)
 The sensor housing with its embedded electronics as well as buttons on the back side. 
 
-![[Pasted image 20230129201722.png]]
+![](https://github.com/HanSur94/SmartHomeEnvironmentLogger/blob/main/Pasted%image%20230129201722.png)
 The sensor housing with its embedded electronics as well as buttons on the front side. 
 
 ## Arduino & Blynk Configuration
